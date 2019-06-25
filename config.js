@@ -1,15 +1,15 @@
 let config = {
-  title: `SITE TITLE`,
-  author: 'author',
-  description: "",
-  siteUrl: '',
+  title: `Kyunghwan.etx`,
+  author: 'Kyunghwan',
+  description: "Kyunghwan's blog",
+  siteUrl: 'https://rudghks373.github.io/',
 
   // header config
   titleLogo: () => {
     return require('./src/images/profile.png');
   },
   titleLogoShow: true,
-  bio: './conifg.js 에서 설정을 수정해주세요',
+  bio: 'Hello!!',
   bioShow: true,
 
   // addtional
